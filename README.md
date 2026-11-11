@@ -1,15 +1,31 @@
-# GainDeck Releases
+# GainDeck
 
-GainDeck is a native macOS interface for rsgain loudness analysis and ReplayGain tagging.
+<img src="assets/gaindeck-icon.png" alt="GainDeck app icon" width="128" height="128">
 
-- [Product website](https://sm3222.github.io/gaindeck-releases/)
-- [Releases](https://github.com/sm3222/gaindeck-releases/releases)
-- [Report an issue](https://github.com/sm3222/gaindeck-releases/issues)
+A native Mac interface for ReplayGain loudness analysis and tagging, powered by [rsgain](https://github.com/complexlogic/rsgain). A WEBServices product.
 
-## Release status
+**GainDeck 1.1.1 RC is in preparation. No RC installer is available yet.**
 
-The next release is in preparation. No new verified download is available yet. Signing, app verification, and third-party distribution materials are being completed.
+[Website](https://sm3222.github.io/gaindeck-releases/) · [Releases](https://github.com/sm3222/gaindeck-releases/releases) · [Report an issue](https://github.com/sm3222/gaindeck-releases/issues) · [Privacy](https://sm3222.github.io/gaindeck-releases/privacy.html)
 
-This public repository contains the website, release information, and issue tracker. Application source is maintained separately in a private repository. Third-party components retain their own licenses; their required notices and source materials will accompany binary releases.
+## Support
 
-ReplayGain requires support in your playback app. Test copied audio before processing your library.
+- [Support development](https://www.paypal.com/ncp/payment/VRVYW4BB3CH3L)
+- [Email support](mailto:beacons_mobile_9k@icloud.com)
+- [Report a bug or suggest an improvement](https://github.com/sm3222/gaindeck-releases/issues)
+
+## Screenshots
+
+This shows the historical 1.0.0 interface. New screenshots will follow verification of the refreshed RC.
+
+[![Historical GainDeck Custom Mode](assets/gaindeck-custom-historical.png)](https://sm3222.github.io/gaindeck-releases/assets/gaindeck-custom-historical.png)
+
+## Downloads and sources
+
+This public repository hosts release information, downloads, the update feed, and issue reports. Application development remains in a separate private repository. Published binary releases will include their engine source archive and third-party notices.
+
+ReplayGain needs a compatible player with the feature enabled. Test on a copied album before processing a library.
+
+## More from WEBServices
+
+[Update Shelf](https://webservices-org.github.io/update-shelf-releases/) · [YomVezman](https://webservices-org.github.io/yomvezman-releases/)
