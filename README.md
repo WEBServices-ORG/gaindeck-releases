@@ -4,7 +4,11 @@
 
 A native Mac interface for ReplayGain loudness analysis and tagging, powered by [rsgain](https://github.com/complexlogic/rsgain). A WEBServices product.
 
-**GainDeck 1.1.1 RC is in preparation. No RC installer is available yet.**
+**GainDeck 1.1.1 RC 1 is available: Developer ID signed and notarized, build 3.**
+
+[Download preview DMG](https://github.com/WEBServices-ORG/gaindeck-releases/releases/download/v1.1.1-rc.1/GainDeck-1.1.1-arm64.dmg) · [RC notes, checksums and engine sources](https://github.com/WEBServices-ORG/gaindeck-releases/releases/tag/v1.1.1-rc.1)
+
+Packaged GUI and updater installation checks remain pending. This is a testing release; use copies of your audio.
 
 [Website](https://webservices-org.github.io/gaindeck-releases/) · [Releases](https://github.com/WEBServices-ORG/gaindeck-releases/releases) · [Report an issue](https://github.com/WEBServices-ORG/gaindeck-releases/issues) · [Privacy](https://webservices-org.github.io/gaindeck-releases/privacy.html)
 
