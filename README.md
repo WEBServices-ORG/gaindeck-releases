@@ -6,19 +6,19 @@ A native Mac interface for ReplayGain loudness analysis and tagging, powered by 
 
 **GainDeck 1.1.1 RC is in preparation. No RC installer is available yet.**
 
-[Website](https://sm3222.github.io/gaindeck-releases/) · [Releases](https://github.com/sm3222/gaindeck-releases/releases) · [Report an issue](https://github.com/sm3222/gaindeck-releases/issues) · [Privacy](https://sm3222.github.io/gaindeck-releases/privacy.html)
+[Website](https://webservices-org.github.io/gaindeck-releases/) · [Releases](https://github.com/WEBServices-ORG/gaindeck-releases/releases) · [Report an issue](https://github.com/WEBServices-ORG/gaindeck-releases/issues) · [Privacy](https://webservices-org.github.io/gaindeck-releases/privacy.html)
 
 ## Support
 
 - [Support development](https://www.paypal.com/ncp/payment/VRVYW4BB3CH3L)
 - [Email support](mailto:beacons_mobile_9k@icloud.com)
-- [Report a bug or suggest an improvement](https://github.com/sm3222/gaindeck-releases/issues)
+- [Report a bug or suggest an improvement](https://github.com/WEBServices-ORG/gaindeck-releases/issues)
 
 ## Screenshots
 
 This shows the historical 1.0.0 interface. New screenshots will follow verification of the refreshed RC.
 
-[![Historical GainDeck Custom Mode](assets/gaindeck-custom-historical.png)](https://sm3222.github.io/gaindeck-releases/assets/gaindeck-custom-historical.png)
+[![Historical GainDeck Custom Mode](assets/gaindeck-custom-historical.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-custom-historical.png)
 
 ## Downloads and sources
 
