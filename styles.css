@@ -3,3 +3,17 @@
 @media(max-width:980px){.hero{grid-template-columns:1fr;gap:30px}.hero-copy{max-width:700px}.hero-icon{width:96px;height:96px}.release-panel{align-items:flex-start;flex-direction:column}.features{grid-template-columns:1fr}.features article+article{border-left:0;border-top:1px solid var(--line)}}
 @media(max-width:640px){.screenshot-grid{grid-template-columns:1fr}.wrap{width:calc(100% - 36px)}.site-header{flex-wrap:wrap;gap:16px}nav{gap:18px}.hero{padding-block:44px}h1{font-size:clamp(2.5rem,9vw,3.5rem)}.section{padding-block:44px}.quiet-panel{grid-template-columns:1fr;padding:24px;gap:24px}.release-panel{padding:24px}.site-footer{align-items:flex-start;flex-direction:column}.prose h1{font-size:2.4rem}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Enlarge the actual tag-mode control without modifying the source screenshot. */
+.workflow-card{padding:24px;background:var(--panel);border:1px solid var(--line);border-radius:18px}
+.workflow-card h2{font-size:clamp(1.6rem,2.5vw,2.1rem);margin:10px 0 24px}
+.control-closeup{display:block;position:relative;overflow:hidden;aspect-ratio:410/85;border:1px solid #62503a;border-radius:10px;background:#111}
+.control-closeup img{position:absolute;width:468.292683%;max-width:none;height:auto;left:-3.902439%;top:-517.647059%}
+.workflow-steps{padding:0;margin:26px 0;list-style:none;counter-reset:step;display:grid;gap:20px}
+.workflow-steps li{counter-increment:step;position:relative;padding-left:36px}
+.workflow-steps li::before{content:counter(step,decimal-leading-zero);position:absolute;left:0;color:var(--accent);font-size:.8rem;font-weight:700;top:3px}
+.workflow-steps strong,.workflow-steps span{display:block}
+.workflow-steps strong{font-size:1rem;color:var(--text)}
+.workflow-steps span{font-size:1rem;color:#cfccc3;line-height:1.5;margin-top:4px}
+.workflow-card figcaption{font-size:.875rem}
+@media(max-width:380px){.workflow-card{padding:16px}}
