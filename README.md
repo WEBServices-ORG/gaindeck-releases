@@ -30,15 +30,15 @@ Easy Mode handles album-library folders with presets and scan/tag options; check
 
 ## Screenshots
 
-Custom Mode provides track analysis and tagging controls. Click any screenshot or Full HD link to open the original 1920 × 1080 image.
+Custom Mode provides track analysis and tagging controls. Inline previews are 720p (1280 × 720). Click any screenshot or Full HD link to open the original 1920 × 1080 image.
 
-<a href="https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-custom-rc3.png"><img src="assets/gaindeck-custom-rc3.png" alt="GainDeck Custom Mode with Tag mode set to Scan only (no tag writing)" width="640"></a>
+<a href="https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-custom-rc3.png"><img src="assets/gaindeck-custom-rc3-720p.png" alt="GainDeck Custom Mode with Tag mode set to Scan only (no tag writing)" width="640"></a>
 
 [Custom Mode · Full HD (1920 × 1080)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-custom-rc3.png)
 
 | Easy Mode | Settings |
 | --- | --- |
-| [![GainDeck Easy Mode: album folder selection and scan options](assets/gaindeck-easy-rc3.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-easy-rc3.png) | [![GainDeck Settings: audio engine and app updates](assets/gaindeck-settings-rc3.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-settings-rc3.png) |
+| [![GainDeck Easy Mode: album folder selection and scan options](assets/gaindeck-easy-rc3-720p.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-easy-rc3.png) | [![GainDeck Settings: audio engine and app updates](assets/gaindeck-settings-rc3-720p.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-settings-rc3.png) |
 | Choose an album folder, select a preset, and check scan/tag options. | Manage the audio engine and app updates. |
 | [Full HD (1920 × 1080)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-easy-rc3.png) | [Full HD (1920 × 1080)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-settings-rc3.png) |
 
