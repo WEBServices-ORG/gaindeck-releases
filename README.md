@@ -32,7 +32,7 @@ Easy Mode handles album-library folders with presets and scan/tag options; check
 
 ## Screenshots
 
-Custom Mode provides track analysis and tagging controls. Inline previews are 720p (1280 × 720).
+Custom Mode provides track analysis and tagging controls.
 
 <img src="assets/gaindeck-custom-20261113-720p.png" alt="GainDeck Custom Mode with Tag mode set to Scan only (no tag writing)" width="640">
 
