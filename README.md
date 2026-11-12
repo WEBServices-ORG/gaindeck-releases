@@ -2,7 +2,7 @@
 
 <img src="assets/gaindeck-icon.png" alt="GainDeck app icon" width="128" height="128">
 
-A native Mac interface for ReplayGain loudness analysis and tagging, powered by [rsgain](https://github.com/complexlogic/rsgain). A WEBServices product.
+Scan your music, review loudness and peaks, and write ReplayGain tags for more consistent playback in compatible players. A native Mac app powered by [rsgain](https://github.com/complexlogic/rsgain). A WEBServices product.
 
 **GainDeck 1.1.1 RC 3 is available: Developer ID signed and notarized, build 5.**
 
@@ -18,15 +18,29 @@ RC 3 adds vivid navigation buttons, larger orange/gray text, a wider folder choo
 - [Email support](mailto:beacons_mobile_9k@icloud.com)
 - [Report a bug or suggest an improvement](https://github.com/WEBServices-ORG/gaindeck-releases/issues)
 
+## Scan first, tag when ready
+
+1. **Choose your music.** Use Custom Mode to select individual tracks or folders.
+2. **Check loudness first.** Set Tag mode to **Scan only (no tag writing)** to measure your music without changing tags. Enable tabular output to inspect loudness, gain, and peak values in the output log.
+3. **Write tags when ready.** Select the tag-writing mode when you are ready to apply ReplayGain metadata. Audio is not re-encoded. Your player must support ReplayGain and have it enabled to use those tags.
+
+Easy Mode handles album-library folders with presets and scan/tag options; check the selected options before running it. Try a copied album before processing your library.
+
+[View the enlarged Tag mode control and workflow on the website](https://webservices-org.github.io/gaindeck-releases/).
+
 ## Screenshots
 
-Full HD screenshots: Easy Mode for album folders, Custom Mode for track analysis and tagging controls, and Settings for the audio engine and updates.
+Custom Mode provides track analysis and tagging controls. Click any screenshot or Full HD link to open the original 1920 × 1080 image.
 
-[![GainDeck Custom Mode RC 3](assets/gaindeck-custom-rc3.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-custom-rc3.png)
+<a href="https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-custom-rc3.png"><img src="assets/gaindeck-custom-rc3.png" alt="GainDeck Custom Mode with Tag mode set to Scan only (no tag writing)" width="640"></a>
 
-[![GainDeck Easy Mode](assets/gaindeck-easy-rc3.png)](assets/gaindeck-easy-rc3.png)
+[Custom Mode · Full HD (1920 × 1080)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-custom-rc3.png)
 
-[![GainDeck Settings](assets/gaindeck-settings-rc3.png)](assets/gaindeck-settings-rc3.png)
+| Easy Mode | Settings |
+| --- | --- |
+| [![GainDeck Easy Mode: album folder selection and scan options](assets/gaindeck-easy-rc3.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-easy-rc3.png) | [![GainDeck Settings: audio engine and app updates](assets/gaindeck-settings-rc3.png)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-settings-rc3.png) |
+| Choose an album folder, select a preset, and check scan/tag options. | Manage the audio engine and app updates. |
+| [Full HD (1920 × 1080)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-easy-rc3.png) | [Full HD (1920 × 1080)](https://webservices-org.github.io/gaindeck-releases/assets/gaindeck-settings-rc3.png) |
 
 ## Downloads and sources
 
