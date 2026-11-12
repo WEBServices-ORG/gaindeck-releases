@@ -32,12 +32,12 @@ Easy Mode handles album-library folders with presets and scan/tag options; check
 
 Custom Mode provides track analysis and tagging controls. Inline previews are 720p (1280 × 720).
 
-<img src="assets/gaindeck-custom-rc3-720p.png" alt="GainDeck Custom Mode with Tag mode set to Scan only (no tag writing)" width="640">
+<img src="assets/gaindeck-custom-20261113-720p.png" alt="GainDeck Custom Mode with Tag mode set to Scan only (no tag writing)" width="640">
 
 
 | Easy Mode | Settings |
 | --- | --- |
-| ![GainDeck Easy Mode: album folder selection and scan options](assets/gaindeck-easy-rc3-720p.png) | ![GainDeck Settings: audio engine and app updates](assets/gaindeck-settings-rc3-720p.png) |
+| ![GainDeck Easy Mode: album folder selection and scan options](assets/gaindeck-easy-20261113-720p.png) | ![GainDeck Settings: audio engine and app updates](assets/gaindeck-settings-20261113-720p.png) |
 | Choose an album folder, select a preset, and check scan/tag options. | Manage the audio engine and app updates. |
 
 ## Downloads and sources
