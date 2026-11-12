@@ -6,6 +6,8 @@ Scan your music, review loudness and peaks, and write ReplayGain tags for more c
 
 **GainDeck 1.1.1 RC 3 is available: Developer ID signed and notarized, build 5.**
 
+App version: **1.1.1** (release candidate 3). **ReplayGain 2.0** is the loudness-tagging standard used by GainDeck; “2.0” is the standard’s version, not the app version.
+
 [Download preview DMG](https://github.com/WEBServices-ORG/gaindeck-releases/releases/download/v1.1.1-rc.3/GainDeck-1.1.1-arm64.dmg) · [RC notes, checksums and engine sources](https://github.com/WEBServices-ORG/gaindeck-releases/releases/tag/v1.1.1-rc.3)
 
 RC 3 adds vivid navigation buttons, larger orange/gray text, a wider folder chooser and an expanded About window. Four full-width groups remain. Existing RC users can use Check for Updates. Easy/Custom screenshots were verified; full keyboard and updater installation acceptance remain pending. This is a testing release; use copies of your audio.
